@@ -19,7 +19,7 @@
 
 ## Les personnages
 
-- **Jimmy Médiator, PDG** : ancien guitariste d'un groupe de hard rock des années 90. Veut « un réseau qui envoie du lourd » et refuse tout mot de passe de plus de 4 caractères (« 1234, comme le décompte avant un morceau »).
+- **Gérard Honoré, PDG** : ancien guitariste classique de renommée internationale et luthier sur son temps libre.
 - **Sandrine, responsable e-commerce** : gère la boutique en ligne et redoute chaque grand festival de l'été, quand les commandes explosent.
 - **Bertrand, maître luthier** (Saint-Nazaire) : a installé des capteurs connectés pour surveiller l'humidité de l'atelier, car le bois des guitares n'aime pas ça. Ils sont branchés sur le même réseau que la caisse.
 - **Enzo, vendeur et stagiaire** : branche son pédalier « connecté » et sa box perso dans le studio d'essai « pour streamer ses démos ».
@@ -31,7 +31,7 @@
 
 Le vendredi du plus gros week-end de festival de l'été, à 18 h, **tout le réseau est tombé** : un câble Ethernet branché entre deux prises du studio d'essai a créé une boucle réseau. La boutique en ligne est restée muette 5 heures, 1 500 commandes ont été perdues, et les caisses des trois magasins ont dû passer au carnet papier.
 
-Jimmy a déclaré, très calmement : *« Plus jamais de larsen sur le réseau. »*
+Gérard a déclaré, très calmement : *« Plus jamais de larsen sur le réseau. »*
 
 ## Le cahier des charges
 
