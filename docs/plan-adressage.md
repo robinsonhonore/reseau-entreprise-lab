@@ -66,7 +66,7 @@ du lien vers le datacenter.
 pas 255. Il utilise `10.<site>.66.0/24`.
 
 **Adresses publiques** : le réseau étant fictif, toutes les adresses publiques sont prises dans
-les plages réservées à la documentation (RFC 5737).
+les plages réservées à la documentation (RFC 5737). ( à voir)
 
 ## Catalogue des VLAN
 
