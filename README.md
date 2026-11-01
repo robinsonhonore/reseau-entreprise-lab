@@ -27,7 +27,7 @@ Conception, intégration, sécurisation et automatisation du réseau d'une PME f
 |---|---|
 | [Scénario client](docs/scenario.md) | Contexte, personnages, cahier des charges |
 | [Plan d'adressage](docs/plan-adressage.md) | VLAN, sous-réseaux, liens, loopbacks, BGP |
-| [Topologie (source draw.io)](docs/topologie.drawio) | Schéma modifiable |
+| [Topologie (source draw.io)](docs/topologie.drawio.png) | Schéma modifiable |
 
 ## Organisation du dépôt
 - `docs/` : schémas, plan d'adressage, matrice de flux
