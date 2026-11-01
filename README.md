@@ -21,6 +21,14 @@ Conception, intégration, sécurisation et automatisation du réseau d'une PME f
 - [ ] Étape 7 – Automatisation
 - [ ] Étape 8 – Audit attaque/défense
 
+## Documentation
+
+| Document | Contenu |
+|---|---|
+| [Scénario client](docs/scenario.md) | Contexte, personnages, cahier des charges |
+| [Plan d'adressage](docs/plan-adressage.md) | VLAN, sous-réseaux, liens, loopbacks, BGP |
+| [Topologie (source draw.io)](docs/topologie.drawio) | Schéma modifiable |
+
 ## Organisation du dépôt
 - `docs/` : schémas, plan d'adressage, matrice de flux
 - `configs/` : configurations des équipements, par étape
